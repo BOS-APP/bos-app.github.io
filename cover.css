@@ -52,7 +52,7 @@ body {
 }
 
 .masthead-brand {
-  margin-bottom: 0;
+  margin-bottom: 2rem;
 }
 
 .nav-masthead .nav-link {
@@ -91,7 +91,7 @@ body {
  * Cover
  */
 .cover {
-  padding: 0 1.5rem;
+  padding: 0 1.5rem 10rem;
 }
 .cover .btn-lg {
   padding: .75rem 1.25rem;
@@ -104,4 +104,6 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+  font-family: regular;
+  font-size: 12px;
 }
